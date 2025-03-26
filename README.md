@@ -10,7 +10,7 @@
 - 📚 I am a continuous learner, always looking to improve my skills and knowledge.
 
 ## Current Learning
-- 🌱 I’m currently delving into **Spring Modulith**, **Spring AOT compilation**, and native compilation with **GraalVM**.
+- 🌱 I’m currently delving into **Kotlin**, **Circuit Breaker** and **Testcontainers**.
 
 ## My Expertise
 - 🛠️ I have hands-on experience implementing a variety of Spring-based applications:
@@ -26,6 +26,7 @@
   - **Spring Kafka**
   - **Spring RabbitMQ**
   - **Spring Kafka Streams**
+  - **Spring Cloud Circuit Breaker**
 
 ## Contact Me
 - 📫 You can reach me on:
